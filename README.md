@@ -1,2 +1,2 @@
-# shin3105.guthub.com
+# shin3105.github.com
 For my Gitblog
